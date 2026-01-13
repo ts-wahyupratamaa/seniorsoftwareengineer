@@ -8,7 +8,7 @@ AI & ML Builder · Automation Engineer (n8n) · Full-Stack & Mobile Engineer
   <a href="https://www.linkedin.com/in/wahyupratamaa" target="_blank">
     <img src="https://img.shields.io/badge/dynamic/json?color=0A66C2&label=LinkedIn%20Followers&query=%24.followers&url=https%3A%2F%2Flinkedin-followers-badge.vercel.app%2Fapi%2F%3Fusername%3Dwahyupratamaa&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/whatyuupratama" target="_blank">
+  <a href="https://github.com/ts-wahyupratamaa" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-@whatyuupratama-181717?logo=github&logoColor=white" />
   </a>
   <a href="https://satutitik.engineer/" target="_blank">
@@ -21,27 +21,12 @@ AI & ML Builder · Automation Engineer (n8n) · Full-Stack & Mobile Engineer
 
 ---
 
-## ⚡ Highlights (Senior-level Snapshot)
-- Lead engineer who ships production-grade solutions end-to-end: **design → implementation → testing → deployment → monitoring**
-- Strong SDLC practice: **Waterfall / V-Model / Agile**, plus testing strategy & QA collaboration
-- Hands-on in **Machine Learning & Deep Learning** (TensorFlow/PyTorch) and integrating models into real products
-- Build reliable **AI Automation** systems using **n8n + Docker + webhooks + secure tunneling**
-- Comfortable across ecosystems: **Web (FE/BE), Mobile (iOS/Flutter), IoT (Raspberry Pi/Arduino)**
-
----
-
-## 🕹️ Pacman Contribution Graph
+## 🕹️ Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wayphantomme/wayphantomme/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wayphantomme/wayphantomme/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wayphantomme/wayphantomme/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-## 🧠 About Me
-I’m a Software Engineer Lead who enjoys building systems that are **maintainable, testable, and scalable**—not just “works on my machine”.
-I’m equally comfortable in product delivery and technical execution: architecture decisions, clean implementation, pragmatic automation, and measurable outcomes.
 
 ---
 
@@ -84,13 +69,6 @@ I’m equally comfortable in product delivery and technical execution: architect
 - Raspberry Pi prototyping & system integration
 - Sensor/actuator workflows with Arduino
 - Bridging hardware-to-software: data collection → processing → dashboard/API
-
----
-
-## 📌 Featured Work (Selected)
-- **GigiSehat** — Early cavity risk detection for kids (Random Forest + Flask + Next.js)
-- **EduBooks** — Full-stack capstone platform with structured delivery & teamwork
-- **Automation Experiments** — Telegram bot, webhook pipelines, Sheets/DB integration (n8n)
 
 ---
 
@@ -218,11 +196,3 @@ I’m equally comfortable in product delivery and technical execution: architect
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
 </div>
 
----
-
-## 📫 Reach Me
-- LinkedIn: https://www.linkedin.com/in/wahyupratamaa  
-- GitHub: https://github.com/whatyuupratama  
-- Website: https://satutitik.engineer/  
-- Instagram: https://www.instagram.com/alvprma.2cn  
-- Medium: https://medium.com/@wahyupratama_

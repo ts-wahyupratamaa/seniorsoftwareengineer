@@ -32,12 +32,18 @@ AI & ML Builder · Automation Engineer (n8n) · Full-Stack & Mobile Engineer
 
 ---
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorssoftwareengineer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorssoftwareengineer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorssoftwareengineer/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorsoftwareengineer/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorsoftwareengineer/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorsoftwareengineer/output/pacman-contribution-graph.svg">
 </picture>
 <img src="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorssoftwareengineer/output/snake.svg" alt="Snake animation" />
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorsoftwareengineer/refs/heads/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorsoftwareengineer/refs/heads/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorsoftwareengineer/output/pacman-contribution-graph.svg">
+</picture>
 ## 🎯 My Focus Areas (Deep Expertise)
 
 ### 🎨 Front-End Engineering

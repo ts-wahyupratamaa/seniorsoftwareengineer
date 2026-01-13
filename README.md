@@ -1,13 +1,10 @@
 # 👋 Hi, I'm Wahyu Pratama
 
 **Software Engineer Lead @satutitik.engineer** · Ex-MSIB Mandiri · Ex-DBS Foundation · Ex-SIB 7 · Ex-Inbound  
-AI Automation · Power Apps & SharePoint Developer  
+AI & ML Builder · Automation Engineer (n8n) · Full-Stack & Mobile Engineer  
 📍 Indonesia · Pronouns: He/Him
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/wahyupratamaa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Followers-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/wahyupratamaa" target="_blank">
     <img src="https://img.shields.io/badge/dynamic/json?color=0A66C2&label=LinkedIn%20Followers&query=%24.followers&url=https%3A%2F%2Flinkedin-followers-badge.vercel.app%2Fapi%2F%3Fusername%3Dwahyupratamaa&logo=linkedin&logoColor=white" />
   </a>
@@ -24,15 +21,16 @@ AI Automation · Power Apps & SharePoint Developer
 
 ---
 
-## ⚡ Highlights
-- Built interactive web apps with **React / Next.js** with strong SDLC practice (Waterfall, V-Model, Agile) & testing mindset  
-- **Machine Learning track alumni** (DBS Foundation Coding Camp 2025): capstone **GigiSehat** (Random Forest + Flask + Next.js)  
-- Love building **automation pipelines** (n8n, Docker, webhook, ngrok) and business workflows  
-- Experience delivering internal tools using **Power Apps & SharePoint**
+## ⚡ Highlights (Senior-level Snapshot)
+- Lead engineer who ships production-grade solutions end-to-end: **design → implementation → testing → deployment → monitoring**
+- Strong SDLC practice: **Waterfall / V-Model / Agile**, plus testing strategy & QA collaboration
+- Hands-on in **Machine Learning & Deep Learning** (TensorFlow/PyTorch) and integrating models into real products
+- Build reliable **AI Automation** systems using **n8n + Docker + webhooks + secure tunneling**
+- Comfortable across ecosystems: **Web (FE/BE), Mobile (iOS/Flutter), IoT (Raspberry Pi/Arduino)**
 
 ---
 
-### 🕹️ Pacman Contribution Graph
+## 🕹️ Pacman Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorssoftwareengineer/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorssoftwareengineer/output/pacman-contribution-graph.svg">
@@ -42,53 +40,182 @@ AI Automation · Power Apps & SharePoint Developer
 ---
 
 ## 🧠 About Me
-I’m a Software Engineer Lead who enjoys building products end-to-end: from crafting clean UI, designing flows, implementing reliable automation, until shipping and maintaining the system.  
-My current focus is **automation + AI**, especially building pragmatic solutions that help people work faster and smarter.
+I’m a Software Engineer Lead who enjoys building systems that are **maintainable, testable, and scalable**—not just “works on my machine”.
+I’m equally comfortable in product delivery and technical execution: architecture decisions, clean implementation, pragmatic automation, and measurable outcomes.
 
 ---
 
-## 🎯 My Focus Areas
+## 🎯 My Focus Areas (Deep Expertise)
 
-### 🌐 Web Engineering
-- React, Next.js, TypeScript
-- UI architecture, reusable components, responsive design
-- Testing mindset & SDLC (V-Model/Waterfall/Agile)
+### 🎨 Front-End Engineering
+- TypeScript-first UI development (Next.js, React)
+- Component-driven development, design systems, Storybook, accessibility
+- Performance tuning (render strategy, caching, bundle optimization)
+- Testing: Jest, unit/integration strategy, CI readiness
 
-### 🤖 AI & Automation
-- n8n workflow automation, webhooks, Docker, ngrok
-- ML basics, model integration to web products
-- Automation for internal ops & business processes
+### 🧱 Back-End Engineering
+- Node.js API development (Express / NestJS)
+- Python backend & services (Flask / FastAPI)
+- API design (REST/GraphQL), authentication, caching, queue-ready patterns
+- Databases: PostgreSQL / MongoDB / Redis / SQLite (choose the right tool, not trends)
 
-### 🧩 Microsoft Ecosystem
-- Power Apps
-- SharePoint
-- Low-code solutions for teams
+### 🧠 Machine Learning, Deep Learning & AI
+- End-to-end ML workflow: problem framing → data prep → modeling → evaluation → deployment
+- Classical ML + feature engineering mindset (pragmatic baseline first)
+- Deep Learning with TensorFlow / PyTorch (vision/NLP/structured pipelines)
+- MLOps-ish approach: reproducibility, experiment tracking mindset, clean training/inference separation
+
+### 🤖 AI Automation (n8n)
+- Workflow orchestration using **n8n** (webhooks, nodes, retries, error handling)
+- Docker-based self-hosting, secure tunneling (ngrok), integrations (Sheets/DB/API)
+- Build automation that is **observable**, **idempotent**, and maintainable (not fragile “one-time flow”)
+
+### 📱 iOS Development
+- Swift + Xcode ecosystem
+- UI architecture approach (componentization, state handling)
+- Real-world app delivery mindset: performance, debugging, build pipeline readiness
+
+### 🐦 Dart & Flutter
+- Flutter app development (mobile-first)
+- State management patterns + modular UI
+- Integrations: Firebase, API consumption, deployment discipline
+
+### 🧩 IoT (Raspberry Pi & Arduino)
+- Raspberry Pi prototyping & system integration
+- Sensor/actuator workflows with Arduino
+- Bridging hardware-to-software: data collection → processing → dashboard/API
 
 ---
 
-## 📌 Featured Work
-- **GigiSehat** — Early cavity risk detection for kids (Random Forest + Flask + Next.js)  
-- **EduBooks** — Capstone full-stack platform + community features  
-- **Automation Experiments** — Telegram bot, webhook pipelines, Sheets integration
+## 📌 Featured Work (Selected)
+- **GigiSehat** — Early cavity risk detection for kids (Random Forest + Flask + Next.js)
+- **EduBooks** — Full-stack capstone platform with structured delivery & teamwork
+- **Automation Experiments** — Telegram bot, webhook pipelines, Sheets/DB integration (n8n)
 
 ---
 
-<h2 align="left">🧰 I code with</h2>
+<h2 align="left">🧰 Tech Stack</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="40" alt="bulma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="40" alt="podman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
 </div>
 
 ---

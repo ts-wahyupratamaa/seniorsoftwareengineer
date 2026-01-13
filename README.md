@@ -2,7 +2,8 @@
 
 Software Engineer Lead @satutitik.engineer · Ex-MSIB Mandiri · Ex-DBS Foundation · Ex-SIB 7 · Ex-Inbound  
 AI & ML Builder · Automation Engineer (n8n) · Full-Stack & Mobile Engineer  
-📍 Malang
+
+📍 Suhat, Malang
 
 <p align="left">
   <a href="https://www.linkedin.com/in/wahyupratamaa" target="_blank">
@@ -27,48 +28,6 @@ AI & ML Builder · Automation Engineer (n8n) · Full-Stack & Mobile Engineer
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorsoftwareengineer/refs/heads/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorsoftwareengineer/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-## 🎯 My Focus Areas (Deep Expertise)
-
-### 🎨 Front-End Engineering
-- TypeScript-first UI development (Next.js, React)
-- Component-driven development, design systems, Storybook, accessibility
-- Performance tuning (render strategy, caching, bundle optimization)
-- Testing: Jest, unit/integration strategy, CI readiness
-
-### 🧱 Back-End Engineering
-- Node.js API development (Express / NestJS)
-- Python backend & services (Flask / FastAPI)
-- API design (REST/GraphQL), authentication, caching, queue-ready patterns
-- Databases: PostgreSQL / MongoDB / Redis / SQLite (choose the right tool, not trends)
-
-### 🧠 Machine Learning, Deep Learning & AI
-- End-to-end ML workflow: problem framing → data prep → modeling → evaluation → deployment
-- Classical ML + feature engineering mindset (pragmatic baseline first)
-- Deep Learning with TensorFlow / PyTorch (vision/NLP/structured pipelines)
-- MLOps-ish approach: reproducibility, experiment tracking mindset, clean training/inference separation
-
-### 🤖 AI Automation (n8n)
-- Workflow orchestration using **n8n** (webhooks, nodes, retries, error handling)
-- Docker-based self-hosting, secure tunneling (ngrok), integrations (Sheets/DB/API)
-- Build automation that is **observable**, **idempotent**, and maintainable (not fragile “one-time flow”)
-
-### 📱 iOS Development
-- Swift + Xcode ecosystem
-- UI architecture approach (componentization, state handling)
-- Real-world app delivery mindset: performance, debugging, build pipeline readiness
-
-### 🐦 Dart & Flutter
-- Flutter app development (mobile-first)
-- State management patterns + modular UI
-- Integrations: Firebase, API consumption, deployment discipline
-
-### 🧩 IoT (Raspberry Pi & Arduino)
-- Raspberry Pi prototyping & system integration
-- Sensor/actuator workflows with Arduino
-- Bridging hardware-to-software: data collection → processing → dashboard/API
 
 ---
 
